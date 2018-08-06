@@ -1,3 +1,3 @@
 # C++ Programs
-Snake and ladder in C++ \n
-A project for bank management using C++
+Program to replicate snake and ladder
+and Automation of banking system
